@@ -1,1 +1,1 @@
-from newCustomTrader.envs.newCryptoEnv import CryptoEnvironment, Actions, Positions
+from .newCryptoEnv import CryptoEnvironment, Actions, Positions
