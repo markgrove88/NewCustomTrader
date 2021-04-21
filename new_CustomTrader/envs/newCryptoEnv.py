@@ -36,7 +36,7 @@ class CryptoEnvironment(gym.Env):
 
         self.frame_bound = frame_bound
         self.unit_side = unit_side.lower()
-        super().__init__()
+        #super().__init__()
 
         self.trade_fee = 0.0003  # unit
 
