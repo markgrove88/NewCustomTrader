@@ -9,6 +9,6 @@ setup(
       author='Mark Grove',
       author_email='',
       license='unlicense',
-      packages=['newCustomTrader'],
+      packages=setuptools.find_packages(),
       zip_safe=False
 )
